@@ -1,0 +1,11 @@
+Полезные ссылки
+
+Метрики качества - https://habr.com/ru/company/ods/blog/328372/
+Метрики для классификации (видео) - https://youtube.com/playlist?list=PLkJJmZ1EJno6CLyvD4DHc32Fed6cPBHje
+Метрики для регрессии (видео) - https://youtu.be/vh2smjQyhp8
+Roc auc - https://dyakonov.org/2017/07/28/auc-roc-площадь-под-кривой-ошибок/
+Основы статистики: просто о сложных формулах - https://habr.com/ru/company/stepic/blog/250527/
+Теория вероятностей в работе программиста (вебинар) - https://geekbrains.ru/events/129
+Туториал по машинному обучению (sklearn) - https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+Туториал по github - https://guides.github.com/activities/hello-world/
+Этапы МЛ проекта (видео) - https://youtu.be/LXc6gjip_oM
