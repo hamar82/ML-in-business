@@ -1,0 +1,7 @@
+Ссылки
+http://hyperopt.github.io/hyperopt/
+https://arxiv.org/pdf/1907.03947.pdf
+https://arxiv.org/pdf/1802.02301.pdf
+https://arxiv.org/list/stat.ML/recent
+https://scikit-learn.org/stable/modules/grid_search.html
+https://scikit-learn.org/stable/modules/compose.html
