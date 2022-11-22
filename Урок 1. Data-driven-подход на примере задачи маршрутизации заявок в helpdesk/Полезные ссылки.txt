@@ -1,0 +1,18 @@
+Ссылки:
+
+https://scikit-learn.org/stable/user_guide.html
+https://pandas.pydata.org/docs/user_guide/index.html
+https://docs.conda.io/en/latest/
+
+Метрики для классификации:https://youtube.com/playlist?list=PLkJJmZ1EJno6CLyvD4DHc32Fed6cPBHje
+
+Метрики для регрессии:https://youtu.be/vh2smjQyhp8
+
+1. метрики качества - https://habr.com/ru/company/ods/blog/328372/
+2. roc auc - https://dyakonov.org/2017/07/28/auc-roc-площадь-под-кривой-ошибок/
+3. Основы статистики: просто о сложных формулах - https://habr.com/ru/company/stepic/blog/250527/
+4. Теория вероятностей в работе программиста (вебинар) - https://geekbrains.ru/events/129
+5. Туториал по машинному обучению (sklearn) - https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+6. Туториал по github - https://guides.github.com/activities/hello-world/
+
+Этапы ML проекта https://youtu.be/LXc6gjip_oM
