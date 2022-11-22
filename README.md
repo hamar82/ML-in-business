@@ -1,4 +1,4 @@
-Урок 1. Data-driven-подход на примере задачи маршрутизации заявок в helpdesk
+Урок 1. Data-driven-подход на примере задачи маршрутизации заявок в helpdesk/n
 Урок 2. Профилирование пользователей. Сегментация unsupervised learning _clustering, LDAARTM_ supervised _multibinary classification_
 Урок 3. Связь бизнес-показателей и DS-метрик
 Урок 4. Uplift-моделирование
