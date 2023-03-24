@@ -28,7 +28,7 @@ $ docker build -t hamar82/review-sentiment-predict .
 
 ### Запускаем контейнер
 
-Здесь Вам нужно создать каталог локально и сохранить туда предобученную [модель(распаковать архив)](https://github.com/hamar82/ML-in-business/Урок 9. Интеграция. Итоговый проект/ml_in_business_course_project/model.zip) (<your_local_path_to_pretrained_models> нужно заменить на полный путь к этому каталогу)
+Здесь Вам нужно создать каталог локально и сохранить туда предобученную [модель(распаковать архив)](https://github.com/hamar82/ML-in-business/blob/ml_in_business_course_project/Урок%209.%20Интеграция.%20Итоговый%20проект/ml_in_business_course_project/model.zip)(<your_local_path_to_pretrained_models> нужно заменить на полный путь к этому каталогу)
 ```
 $ docker run -d -p 8180:8180 -p 8181:8181 -v <your_local_path_to_pretrained_models>:/app/app/models hamar82/review-sentiment-predict
 ```
